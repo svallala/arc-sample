@@ -9,5 +9,6 @@ spec:
     git: https://github.com/svallala/arc-sample
     ref: master
     path: charts/helm-chart-test
+    version: 1.0
   values:
     name: arc-k8s-demo
