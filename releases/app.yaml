@@ -10,4 +10,4 @@ spec:
     ref: master
     path: charts/helm-chart-test
   values:
-    serviceName: arc-k8s-demo
+    name: arc-k8s-demo
