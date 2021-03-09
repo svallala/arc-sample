@@ -9,5 +9,6 @@ spec:
     git: https://github.com/svallala/arc-sample
     ref: master
     path: charts/azure-arc-sample
+    version: "1"
   values:
     serviceName: arc-k8s-demo
